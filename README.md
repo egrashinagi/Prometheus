@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ git clone git@github.com:egrashinagi/Prometheus.git
+$ git clone https://github.com/egrashinagi/Prometheus.git
 $ npm install
 ```
 
