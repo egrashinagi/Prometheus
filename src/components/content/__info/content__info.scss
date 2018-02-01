@@ -1,0 +1,10 @@
+&__info {
+  display: flex;
+
+  height: 846px;
+  width: 360px;
+
+  @import '_right/content__info_right';
+  @import '_left/content__info_left';
+  @import '_margin/content__info_margin';
+}

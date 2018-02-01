@@ -1,0 +1,10 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+  flex-shrink: 0;
+
+  background-color: #D0DFFF;
+  padding: 60px 15px;
+
+  @import '__info/content__info';
+}
