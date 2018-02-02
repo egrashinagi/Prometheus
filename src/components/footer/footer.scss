@@ -1,4 +1,10 @@
 .footer {
+  display: flex;
+  justify-content: space-between;
+
   background-color: #23345A;
-  padding: 100px;
+  padding: 10px;
+
+  @import '__logo/footer__logo';
+  @import '__text/footer__text';
 }

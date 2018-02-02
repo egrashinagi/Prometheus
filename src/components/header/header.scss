@@ -1,4 +1,10 @@
 .header {
+  display: flex;
+  justify-content: space-between;
+
   background-color: #75A5FF;
-  padding: 58px;
+  padding: 20px;
+
+  @import '__logo/header__logo';
+  @import '__text/header__text';
 }

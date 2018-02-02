@@ -1,0 +1,10 @@
+&__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  color: white;
+  font-size: 20px;
+
+  @import '_grey/header__text_grey';
+}
